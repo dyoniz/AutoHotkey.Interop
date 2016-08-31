@@ -7,7 +7,7 @@ This was made to be intended to use as is, without needing to register any of th
 
 All the thanks goes to HotKeyIt's work 
 
-Built for .NET Framework 4.0
+Target framework: .NET Framework 4.0
 
 Usage & Examples
 ====================
